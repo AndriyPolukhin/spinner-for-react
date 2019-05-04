@@ -15,6 +15,7 @@
  2. lint
   - linter - eslint / stylelint
   - formatter - prettier
+    [ Resources: https://editorconfig.org/ ]
  3. test
   - test suite - jest / mocha / ava
   - code coverage - nyc / codecov / coveralls

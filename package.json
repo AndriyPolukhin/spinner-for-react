@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AndriyPolukhin/spinner-for-react/issues"
   },
-  "homepage": "https://github.com/AndriyPolukhin/spinner-for-react#readme"
+  "homepage": "https://github.com/AndriyPolukhin/spinner-for-react#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
